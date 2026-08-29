@@ -20,4 +20,4 @@ Hint 1: Use base64 to decode the data and generate the image file.
 
 5. `$ echo "7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F61633165333538347D" | xxd -r -p`
     - At this point you could also use GPT to decrypt 
-        - Answer: picoCTF{forensics_analysis_is_amazing_ac1e3584
+        - Answer: picoCTF{forensics_analysis_is_amazing_ac1e3584}

@@ -30,4 +30,4 @@ Hint 3: Tools like xxd or hexdump can help you inspect and edit file bytes.
     - Reverses hexdump file to jpg 
 
 5. `$ open fixed.jpg`
-    - Answer: `picoCTFlr3st0r1ng_th3_by73s.2326ca93)`
+    - Answer: `picoCTF{r3st0r1ng_th3_by73s_2326ca93}`
